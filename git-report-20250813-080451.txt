@@ -1,0 +1,7 @@
+Category: beepmedia
+Repository: beepmedia/mcp/mcp-dev/mcp-google-meet
+Full path: /Users/andreihasna/Dev/beepmedia/mcp/mcp-dev/mcp-google-meet
+
+  • Has uncommitted changes
+Push successful: false
+---
